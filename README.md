@@ -14,6 +14,8 @@
 
 6. **How do you manage application configuration in a Node.js application?**
 
+7. **What are the benefits and drawbacks of using Node.js for server-side development compared to traditional server-side languages like Java or PHP?**
+
 ## PHP Questions
 
 1. **What are the key differences between `include`, `require`, `include_once`, and `require_once` in PHP?**
@@ -27,3 +29,5 @@
 5. **How does PHP handle file uploads and what are the common configuration options for managing uploads?**
 
 6. **What is the purpose of the `mysqli` extension in PHP and how does it differ from `PDO`?**
+
+7. **How can you manage and optimize database connections in a PHP application?**
