@@ -16,6 +16,8 @@
 
 7. **What are the benefits and drawbacks of using Node.js for server-side development compared to traditional server-side languages like Java or PHP?**
 
+8. **How does Node.js handle errors and exceptions in asynchronous code?**
+
 ## PHP Questions
 
 1. **What are the key differences between `include`, `require`, `include_once`, and `require_once` in PHP?**
@@ -31,3 +33,5 @@
 6. **What is the purpose of the `mysqli` extension in PHP and how does it differ from `PDO`?**
 
 7. **How can you manage and optimize database connections in a PHP application?**
+
+8. **What are PHP’s error reporting levels and how can they be configured?**
