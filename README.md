@@ -6,8 +6,13 @@
 
 2. **What is the difference between `process.nextTick()` and `setImmediate()` in Node.js?**
 
+3. **How does Node.js handle multiple requests simultaneously?**
+
+
 ## PHP Questions
 
 1. **What are the key differences between `include`, `require`, `include_once`, and `require_once` in PHP?**
 
 2. **How can you prevent SQL injection in PHP?**
+
+3. **What is the difference between `GET` and `POST` methods in PHP?**
