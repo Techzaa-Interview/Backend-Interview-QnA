@@ -1,3 +1,4 @@
+
 # Backend Interview Questions
 
 ## Node.js Questions
@@ -20,6 +21,8 @@
 
 9. **What is middleware in the context of Node.js frameworks like Express, and how is it used?**
 
+10. **How does Node.js interact with databases, and what libraries or ORM tools are commonly used?**
+
 ## PHP Questions
 
 1. **What are the key differences between `include`, `require`, `include_once`, and `require_once` in PHP?**
@@ -39,3 +42,5 @@
 8. **What are PHP’s error reporting levels and how can they be configured?**
 
 9. **What are some common PHP design patterns and how do they improve code organization and reusability?**
+
+10. **How can you implement caching in PHP to improve performance?**
