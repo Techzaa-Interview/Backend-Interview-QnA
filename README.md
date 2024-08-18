@@ -10,6 +10,8 @@
 
 4. **What are Streams in Node.js, and how do they differ from Buffers?**
 
+5. **What are the key differences between `spawn`, `exec`, and `fork` methods in Node.js's `child_process` module?**
+
 ## PHP Questions
 
 1. **What are the key differences between `include`, `require`, `include_once`, and `require_once` in PHP?**
@@ -19,3 +21,5 @@
 3. **What is the difference between `GET` and `POST` methods in PHP?**
 
 4. **What are PHP Sessions and how are they different from Cookies?**
+
+5. **How does PHP handle file uploads and what are the common configuration options for managing uploads?**
