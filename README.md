@@ -18,6 +18,8 @@
 
 8. **How does Node.js handle errors and exceptions in asynchronous code?**
 
+9. **What is middleware in the context of Node.js frameworks like Express, and how is it used?**
+
 ## PHP Questions
 
 1. **What are the key differences between `include`, `require`, `include_once`, and `require_once` in PHP?**
@@ -35,3 +37,5 @@
 7. **How can you manage and optimize database connections in a PHP application?**
 
 8. **What are PHP’s error reporting levels and how can they be configured?**
+
+9. **What are some common PHP design patterns and how do they improve code organization and reusability?**
