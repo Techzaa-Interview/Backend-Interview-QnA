@@ -8,6 +8,7 @@
 
 3. **How does Node.js handle multiple requests simultaneously?**
 
+4. **What are Streams in Node.js, and how do they differ from Buffers?**
 
 ## PHP Questions
 
@@ -16,3 +17,5 @@
 2. **How can you prevent SQL injection in PHP?**
 
 3. **What is the difference between `GET` and `POST` methods in PHP?**
+
+4. **What are PHP Sessions and how are they different from Cookies?**
